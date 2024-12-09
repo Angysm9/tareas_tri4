@@ -4,11 +4,15 @@
 ### UAM Lerma LACD
 Repositorio de tareas de la alumna Angelica Sanchez Montoya, del trimestre 4, junto con sus códigos. El software que se utiliza es *Visual Studio Code* y la Biblioteca **AFrame**
 
-Tecnologías Usadas:  
+*Tecnologías Usadas:*
+
 [Aframe] (https://aframe.io/) 
+
 [Blender] 
+
 [GitHub] (https://github.com/donmccurdy/aframe-inspector-plugin-recast)
 (https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 [w3schools] (https://www.w3schools.com/html/default.asp)
 
 En este repositorio están todas las actividades, ejercicios y tareas que a lo largo del *trimestre 24O* veremos, asi mismo lo usaré como un archivo para guardar lo explicado y enseñado por nuestro Profesor. Estaremos usando distintas páginas, tecnologías, etc. Entre ellos A-Frame, Blender, GitHub, w3schools, entre otros. 
