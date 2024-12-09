@@ -30,4 +30,12 @@ Este conjunto de ejercicios ayudan para la elaboración de un Proyecto Final que
 *Ejercicio texto:* Continuamos conociendo los distintos estilos para texto. Aprendimos a poner **espacios, párrafos, ñ, mayúsculas, etc.**  
 
 *Ejercicio navmesh:* Aquí pusimos una **malla** para que la camara no atraviese las paredes/figuras. Usamos ayuda de **Blender** para recortar el espacio/plano donde iría la malla.
-
+<html>
+<head>
+</head>
+    <body>
+    <p>   
+<img src="assets/vsc.png"width="650">
+</p>
+</body>
+</html>
