@@ -19,23 +19,15 @@ En este repositorio están todas las actividades, ejercicios y tareas que a lo l
 
 Este conjunto de ejercicios ayudan para la elaboración de un Proyecto Final que se esta elaborando en equipo, el cuál es una *Galería Virtual*. 
 
-*Ejercicio clase 5:* Hicimos un ejercicio con entidades en la arquitectura **ECS** de Aframe.
+<ins> Ejercicio clase 5:* </ins>* Hicimos un ejercicio con entidades en la arquitectura **ECS** de Aframe.
 
-*Ejercicio cielo y piso:* En este ejercicio exploramos los primitivos **a-plane** el cuál lo utilizamos para poner un piso, una superficie plana, también utilizamos **a-sky** con el cuál cambiamos el cielo, primero a un color y después a una imagen 360° y por último usamos **a-box** el cuál agregó una caja/cubo a la escena. En los tres experimentamos con el color y la textura. 
+<ins>*Ejercicio cielo y piso:*</ins> En este ejercicio exploramos los primitivos **a-plane** el cuál lo utilizamos para poner un piso, una superficie plana, también utilizamos **a-sky** con el cuál cambiamos el cielo, primero a un color y después a una imagen 360° y por último usamos **a-box** el cuál agregó una caja/cubo a la escena. En los tres experimentamos con el color y la textura. 
 
-*Ejercicio collision:* En estos dos ejercicios exploramos **static-body position** y **dynamic-body position**, al igual que **physics= gravity**. Pusimos objetos dentro de la escena, además de un piso, en dón el objeto cae, rebota, etc.  
+<ins>*Ejercicio collision:*</ins> En estos dos ejercicios exploramos **static-body position** y **dynamic-body position**, al igual que **physics= gravity**. Pusimos objetos dentro de la escena, además de un piso, en dón el objeto cae, rebota, etc.  
 
-*Ejercicio index:* En este ejercicio aprendimos y pusimos en práctica el introducir **texto**, introducir **imágenes**, introducir **links** con los cuáles experimentamos las distintas maneras y formatos con los que se puede contar. 
+<ins>*Ejercicio index:*</ins> En este ejercicio aprendimos y pusimos en práctica el introducir **texto**, introducir **imágenes**, introducir **links** con los cuáles experimentamos las distintas maneras y formatos con los que se puede contar. 
 
-*Ejercicio texto:* Continuamos conociendo los distintos estilos para texto. Aprendimos a poner **espacios, párrafos, ñ, mayúsculas, etc.**  
+<ins>*Ejercicio texto:*</ins> Continuamos conociendo los distintos estilos para texto. Aprendimos a poner **espacios, párrafos, ñ, mayúsculas, etc.**  
 
-*Ejercicio navmesh:* Aquí pusimos una **malla** para que la camara no atraviese las paredes/figuras. Usamos ayuda de **Blender** para recortar el espacio/plano donde iría la malla.
-<html>
-<head>
-</head>
-    <body>
-    <p>   
-<img src="assets/vsc.png"width="650">
-</p>
-</body>
-</html>
+<ins>*Ejercicio navmesh:*</ins> Aquí pusimos una **malla** para que la camara no atraviese las paredes/figuras. Usamos ayuda de **Blender** para recortar el espacio/plano donde iría la malla.
+  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.(C:\Users\angel\Documents\tareas_tri4\hola_html/assets/vsc.png)
